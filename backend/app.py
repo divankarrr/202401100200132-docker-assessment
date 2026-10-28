@@ -4,7 +4,7 @@ import os
 import signal
 import socket
 import sys
-import threading
+import threading 
 from contextlib import closing
 
 import psycopg2
